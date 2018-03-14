@@ -1,0 +1,4 @@
+put logback.xml into a source folder,if there is not source folder
+you shold make a new one:
+
+and you should to build path to check if you have made it
